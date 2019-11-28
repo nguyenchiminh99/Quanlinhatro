@@ -1,0 +1,53 @@
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojResolveAssemblyReference.cache
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.Cache
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fDangNhap.resources
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fQuanLi.resources
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThongTinPhong.resources
+C:\Users\TDTU STUDENT\Desktop\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fChoThuePhong.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fChoThuePhong.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fDangNhap.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fQuanLi.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThongTinPhong.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fDoiMatKhau.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fTaoTK.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThongTinKhach.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fGiaPhong.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fGiaDV.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fHoaDon.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThongKe.resources
+D:\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThemPhong.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe.config
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.exe
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\QuanLiNhaTro.pdb
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fChoThuePhong.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fDangNhap.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fGiaDV.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fGiaPhong.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fHoaDon.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fQuanLi.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fTaoTK.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThemPhong.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThongKe.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThongTinKhach.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fThongTinPhong.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fDoiMatKhau.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.fTraPhong.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.Properties.Resources.resources
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
