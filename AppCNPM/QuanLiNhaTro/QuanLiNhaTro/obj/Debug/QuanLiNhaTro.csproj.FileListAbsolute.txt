@@ -51,3 +51,7 @@ C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\Quan
 C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.GenerateResource.cache
 C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.exe
 C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.pdb
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\nguye\Desktop\DoanCNPM\AppCNPM\QuanLiNhaTro\QuanLiNhaTro\obj\Debug\QuanLiNhaTro.csproj.CopyComplete
